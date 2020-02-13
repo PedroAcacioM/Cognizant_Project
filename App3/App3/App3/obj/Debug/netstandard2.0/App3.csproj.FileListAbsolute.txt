@@ -1,0 +1,55 @@
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfoInputs.cache
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfo.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.dll
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\ref\App3.dll
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.pdb
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.csprojAssemblyReference.cache
+C:\Users\akill\source\repos\App3\App3\App3\bin\Debug\netstandard2.0\App3.deps.json
+C:\Users\akill\source\repos\App3\App3\App3\bin\Debug\netstandard2.0\App3.dll
+C:\Users\akill\source\repos\App3\App3\App3\bin\Debug\netstandard2.0\ref\App3.dll
+C:\Users\akill\source\repos\App3\App3\App3\bin\Debug\netstandard2.0\App3.pdb
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\MainPage(menu).xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\teste1.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\Criacaohorario.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\modificaohorario.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\teste2.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\tsest\MenuDetail.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\tsest\Page1.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\tsest\Page2.xaml.g.cs
+C:\Users\akill\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\tsest\Page3.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\App3.deps.json
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\App3.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\ref\App3.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\App3.pdb
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\MenuDetail.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\Page1.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\Page3.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\ref\App3.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.pdb
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\Sobre.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\App.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\Criacaohorario.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\MainPage(menu).xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\modificaohorario.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\tsest\teste1.xaml.g.cs
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\App3.dll.config
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\bin\Debug\netstandard2.0\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.csproj.CopyComplete
+C:\Users\Pedro\Desktop\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Cognizant\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.dll
+E:\Cognizant\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\ref\App3.dll
+E:\Cognizant\App3 (1)\App3\App3\App3\obj\Debug\netstandard2.0\App3.pdb

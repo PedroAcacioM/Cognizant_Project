@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App3.modificaohorario">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <TableView>
+                <TableRoot>
+                    <TableSection>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Data:" VerticalOptions="Center" FontSize="Medium"></Label>
+                                <DatePicker FontSize="Large"></DatePicker>
+                            </StackLayout>
+                        </ViewCell>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Hora:" VerticalOptions="Center" FontSize="Medium"></Label>
+                                <TimePicker></TimePicker>
+                            </StackLayout>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+            <Button x:Name="Entrarnaempresa" Text="Entrar" Clicked="Entrar_Clicked"></Button>
+            <Button x:Name="Saidanaempresa" Text="Sair" Clicked="Saida_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

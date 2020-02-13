@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm= "clr-namespace:App3"
+             mc:Ignorable="d"
+             x:Class="App3.teste1">
+
+    <ContentPage.BindingContext>
+        <vm:Login>
+            
+        </vm:Login>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" Margin="60">
+            <Image Source="download"></Image>
+            <!--<Entry Keyboard="Text" Placeholder="teste"/>-->
+            <Entry Placeholder="Email" Keyboard="Email" Text="{Binding Usuario}"></Entry>
+            <Entry Placeholder="Senha" IsPassword="True" Text="{Binding Senha}"></Entry>
+            <Button Text="Entrar" Command="{Binding EntrarCommand}" Clicked="Button_Clicked"></Button> 
+            <!--grid.colulunspan espaco ocupado grid.colum coluna que vai ocupar grid * ele espande -->
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

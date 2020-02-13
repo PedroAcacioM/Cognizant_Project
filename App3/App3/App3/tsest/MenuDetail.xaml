@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.MenuDetail" Title="Detail">
+    <ContentPage.Content>
+        <StackLayout Margin="30">
+            <Image Source="download"></Image>
+            <!--<Entry Keyboard="Text" Placeholder="teste"/>-->
+            <Button x:Name="Criar" Text="Criar Ponto" Clicked="Criar_Clicked_1"></Button>
+            <Button x:Name="Modificar" Text="Modificar Ponto" Clicked="Modificar_Clicked"></Button>
+            <!--grid.colulunspan espaco ocupado grid.colum coluna que vai ocupar grid * ele espande -->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
